@@ -1,0 +1,46 @@
+@charset "UTF-8";
+body {
+  background-color: darkslategray;
+}
+ 
+#wrap {
+  width: 960px;
+  margin: auto;
+  background-color: lightsteelblue;
+  border: 5px dashed black;
+  padding: 30px;
+}
+ 
+header {
+  padding: 40px;
+  height: 80px;
+}
+ 
+nav {
+  padding: 8px 40px;
+  background-color: #66A5AD;
+  color: black;
+  border-radius: 10px;
+}
+ 
+main {
+  padding: 40px;
+  height : 400px;
+}
+ 
+footer {
+  padding: 40px;
+  height: 40px;
+  background-color : #66A5AD;
+  color: black;
+}
+.circle{
+  padding:30px 
+}
+
+.circle img {
+  border-radius: 50%;
+  width: 300px;
+}
+
+.page-title {color: blue;}
